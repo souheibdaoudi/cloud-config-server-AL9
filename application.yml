@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Safa31Ben/cloud-config-server-tp9
+          uri: git remote add origin https://github.com/souheibdaoudi/cloud-config-server-AL9
 
 server:
   port: 9196
